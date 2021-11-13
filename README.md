@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LeningAleksei
 - 👀 I’m interested in QA 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning courses QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can write to me netver97@gmail.com
 
