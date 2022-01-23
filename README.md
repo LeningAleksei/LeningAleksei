@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LeningAleksei
-- 👀 I’m interested in QA 
+- 👀 I’m interested in Testing software
 - 🌱 I’m currently learning courses QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can write to me netver97@gmail.com
